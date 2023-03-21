@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"__next\"]/header/div/div/section/aside/nav[1]/img\"}\n  (Session info: chrome=111.0.5563.65)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x0031DCE3]\n\t(No symbol) [0x002B39D1]\n\t(No symbol) [0x001C4DA8]\n\t(No symbol) [0x001F019F]\n\t(No symbol) [0x001F03AB]\n\t(No symbol) [0x0021EE62]\n\t(No symbol) [0x0020AF14]\n\t(No symbol) [0x0021D57C]\n\t(No symbol) [0x0020ACC6]\n\t(No symbol) [0x001E6F68]\n\t(No symbol) [0x001E80CD]\n\tGetHandleVerifier [0x00593832+2506274]\n\tGetHandleVerifier [0x005C9794+2727300]\n\tGetHandleVerifier [0x005CE36C+2746716]\n\tGetHandleVerifier [0x003C6690+617600]\n\t(No symbol) [0x002BC712]\n\t(No symbol) [0x002C1FF8]\n\t(No symbol) [0x002C20DB]\n\t(No symbol) [0x002CC63B]\n\tBaseThreadInitThunk [0x75E77D69+25]\n\tRtlInitializeExceptionChain [0x7721B74B+107]\n\tRtlClearBits [0x7721B6CF+191]\n"
+}
